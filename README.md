@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/example_car_notcar.png
-[image2]: ./output_images/HOG_visualisations.png
+[image2]: ./output_images/hog_visualisations.png
 [image3]: ./output_images/sliding_window_boxes.png
 [image4]: ./output_images/boxes_heatmaps_box.png
 [video1]: ./project_video_output.mp4
